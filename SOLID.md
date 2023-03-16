@@ -13,6 +13,7 @@ A class should have only one reason to change. This means that a class should ha
 
 Example in Java:
 
+```java
     public class Book {
         private String title;
         private String author;
@@ -26,5 +27,5 @@ Example in Java:
             System.out.println("Page count: " + pageCount);
         }
     }
-        
+```
 
