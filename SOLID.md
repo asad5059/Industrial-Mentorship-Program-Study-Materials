@@ -12,7 +12,7 @@ Here's a brief overview of each principle along with an example in Java:
 A class should have only one reason to change. This means that a class should have only one responsibility or job to do.
 
 Example in Java:
-
+        ```
         public class Book {
             private String title;
             private String author;
@@ -26,4 +26,5 @@ Example in Java:
                 System.out.println("Page count: " + pageCount);
             }
         }
+        ```js
 
