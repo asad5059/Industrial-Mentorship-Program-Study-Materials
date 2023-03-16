@@ -1,0 +1,9 @@
+Spring Boot is a framework that is built on top of the Spring framework, and it is designed to make it easier to create standalone, production-grade Spring-based applications. Spring Boot provides a variety of features that make it easier to configure and build Spring-based applications, including automatic configuration, starter dependencies, and an embedded web server.
+
+Spring, on the other hand, is a framework for building Java-based enterprise applications. It provides a range of modules for different aspects of enterprise application development, such as Spring Core, Spring Data, and Spring MVC.
+
+One of the key differences between Spring and Spring Boot is that Spring Boot provides a pre-configured environment that makes it easier to get started with building applications. Spring Boot also includes several starter dependencies that automatically configure the required dependencies based on the project requirements. This makes it easier to get started with a Spring Boot project, as you don't need to manually configure each individual dependency.
+
+For example, if you want to create a Spring Boot web application, you can use the Spring Boot Web Starter dependency. This will automatically configure the required dependencies for building a web application, such as Spring Web, Spring Boot Actuator, and Tomcat. You can also customize the configuration by adding or removing dependencies based on your project requirements.
+
+In summary, Spring Boot is a framework built on top of Spring that provides a pre-configured environment and starter dependencies to make it easier to build standalone, production-grade Spring-based applications. Spring is a framework for building Java-based enterprise applications that provides a range of modules for different aspects of enterprise application development.
