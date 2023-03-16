@@ -26,5 +26,5 @@ Example in Java:
                 System.out.println("Page count: " + pageCount);
             }
         }
-        ```js
+        ```
 
